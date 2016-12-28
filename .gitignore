@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Chrome driver
+chromedriver
+
+# CSV files
+*.csv
